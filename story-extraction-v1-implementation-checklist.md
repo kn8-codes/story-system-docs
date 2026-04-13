@@ -180,6 +180,15 @@ Outputs:
 
 Audio/video items can produce transcripts automatically.
 
+## Prerequisite
+
+Before this milestone can run on the intended processing machine, Whisper must be installed and working on the MBP.
+
+Definition of done:
+- Whisper is installed on the MBP
+- a basic local transcription command succeeds on a test file
+- the MBP is confirmed as the transcription host for v1
+
 ## Tasks
 
 ### 3.1 Define which media types get transcription
